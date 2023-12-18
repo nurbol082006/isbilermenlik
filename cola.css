@@ -1,0 +1,48 @@
+.cola{
+    display: flex;
+}
+.csc{
+    width: 90px;
+    height: 90px;
+    margin-top: 70px;
+}
+.csc-1{
+    width: 90px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.coco{
+    display: flex;
+}
+p{
+    color: #212F3D;
+}
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: rgb(236, 129, 129)
+}
+h4{
+    color: gray;
+}
+.h4{
+    width: 300px;
+    height: 65px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.dav{
+    text-align: end;
+    font-size: 10px;
+    color: gray;
+}
+body{
+    background-color: rgb(220, 84, 84);
+}
+p{
+    color: #fff;
+}

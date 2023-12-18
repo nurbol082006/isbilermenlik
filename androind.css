@@ -1,0 +1,26 @@
+.img{
+width: 100%;
+margin: 20px 0px;
+}
+img{
+    width: 100%;
+}
+p{
+    text-align: center;
+}
+h5{
+    text-align: end;
+    font-size: 10px;
+    margin-top: 20px;
+    color: aqua;
+}
+h4{
+    text-align: end;
+    font-size: 9px;
+    color: black;
+
+}
+body{
+    background-color: greenyellow;
+    color: #fff;
+}

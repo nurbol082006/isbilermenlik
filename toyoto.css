@@ -1,0 +1,31 @@
+.toyoto{
+    display: flex;
+    justify-content: space-evenly;
+}
+.t-img{
+    width:95px;
+    height: 70px;
+}
+.parao{
+    text-align: center;
+}
+.img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 7px;
+    margin-top: 30px;
+}
+h5{
+    text-align: end;
+    font-size: 10px;
+    margin-top: 20px;
+    color: red;
+}
+h4{
+    text-align: end;
+    font-size: 9px;
+    color: firebrick;
+}
+p{
+    text-align: center;
+}

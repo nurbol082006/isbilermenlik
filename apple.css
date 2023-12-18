@@ -1,0 +1,44 @@
+body{
+    background: gray;
+}
+
+.apple-img{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.hazor{
+    text-align: center;
+    color: antiquewhite;
+}
+.komp{
+    text-align: left;
+    color: yellow;
+}
+.apawlwq{
+    text-align: end;
+}
+
+.shibl{ 
+    color:#35A1EB;
+}
+.voznyak{
+    text-align: center;
+    color: #4EEC38 ;
+}
+
+.kompaniya{
+    text-align: justify;
+    color: #48C9B0;
+}
+.mag{
+    font-size: 10px;
+    color: red;
+    text-align: center;
+}
+.nur{
+    font-size: 10px;
+    text-align: end;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+p{
+    color: chocolate;
+}
+img{
+    width: 100%;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+h5{
+    text-align: end;
+    font-size: 10px;
+    margin-top: 20px;
+}
+h4{
+    text-align: end;
+    font-size: 9px;
+}

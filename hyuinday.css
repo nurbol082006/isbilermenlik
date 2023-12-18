@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+}
+.text{
+    color: blue;
+    text-align: center;
+}
+.screen{
+    width: 100%;
+}
+.img{
+    width: 150px;
+    height: 120px;
+}
+h2{
+    text-align: center;
+    color: green;
+}
+.marquwe{
+    width: 320px;
+    height: 150px;
+}
